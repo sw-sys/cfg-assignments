@@ -1,0 +1,6 @@
+# environment
+.env
+.venv
+
+# ignore logs
+*.log
