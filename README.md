@@ -40,9 +40,12 @@ Designed, coded and prototyped a next.js app pulling data from supplier APIs to 
 
 - git status - check file changes and what's staged
 - git ls-branch - list branches in the repo and their pointers
+- git branch <branchname> - create a new branch
+- git switch <branchname> - switch to the branch
 - git branch -r - see all remote branches
 - git branch -a - see all local and remote branches
-- git checkout -b <newbranchname> - create branch and switch to it locally
+- git branch -d <branchname> - delete the branch
+- git checkout -b <newbranchname> - create branch and switch to it
 - git push -u origin <branchname> - push to remote repo
 - git add . - add all files to a branch
 - git add <filenames> - add only specific file(s) to the stage
