@@ -18,8 +18,8 @@
 
 Designed, coded and prototyped a next.js app pulling data from supplier APIs to allow end users to browse catalogue records. This was supported by a mentor from Google and demonstrated the value of custom system solutions to our director.
 
-- [Demo video](https://mmutube.mmu.ac.uk/media/2025-02-05_Vir-Boo_Demo/1_lq9jvd5d)
-- [Repo](https://github.com/MMU-Library/virtual_bookshelf)
+    - [Demo video](https://mmutube.mmu.ac.uk/media/2025-02-05_Vir-Boo_Demo/1_lq9jvd5d)
+    - [Repo](https://github.com/MMU-Library/virtual_bookshelf)
 
 - Product managed an AI-enabled discovery layer using hybrid semantic search with cosign coefficient to allow an LLM access to records via a vectorised DB to rank and retrieve useful educational resources. This was supported by a Project Manager mentor and inspired my academic library industry to see we could make our own tools.
 
